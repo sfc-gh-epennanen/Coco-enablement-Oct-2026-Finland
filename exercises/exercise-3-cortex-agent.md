@@ -69,25 +69,25 @@ Test the RETAIL_DATA_ASSISTANT agent with the following 5 questions. For each qu
 
 ---
 
-## Task 3: Deploy to Snowflake Intelligence
+## Task 3: Deploy to Snowflake CoWork
 
-Make the agent accessible to business users through Snowflake Intelligence — a clean web interface where users can ask questions without any SQL tools.
+Make the agent accessible to business users through Snowflake CoWork — a clean web interface where users can ask questions without any SQL tools.
 
 Copy and paste:
 
 ```
-Show me how to make the RETAIL_DATA_ASSISTANT agent available in Snowflake Intelligence so that Ruokavirta's business users can access it.
+Show me how to make the RETAIL_DATA_ASSISTANT agent available in Snowflake CoWork so that Ruokavirta's business users can access it.
 
 Walk me through:
-1. How to publish the agent to Snowflake Intelligence
+1. How to publish the agent to Snowflake CoWork
 2. How to set up the agent's display name and description for end users
 3. How business users would access it (URL, login, interface)
 4. How role-based access works — ensuring store managers see only their data
 
-If Snowflake Intelligence is available in this account, set it up. If not, explain the steps and show what the end-user experience looks like.
+If Snowflake CoWork is available in this account, set it up. If not, explain the steps and show what the end-user experience looks like.
 ```
 
-**Expected outcome:** CoCo either configures Snowflake Intelligence (if available) or provides a clear walkthrough of the setup steps. You understand how business users will interact with the agent.
+**Expected outcome:** CoCo either configures Snowflake CoWork (if available) or provides a clear walkthrough of the setup steps. You understand how business users will interact with the agent.
 
 ---
 
